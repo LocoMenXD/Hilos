@@ -1,0 +1,2 @@
+C:\Users\NakamaElLocoManXD\source\repos\Threads\Hilos\obj\Debug\Hilos.csproj.AssemblyReference.cache
+C:\Users\NakamaElLocoManXD\source\repos\Threads\Hilos\obj\Debug\Hilos.csproj.CoreCompileInputs.cache
